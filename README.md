@@ -8,3 +8,6 @@ cd blog
 npm install
 hexo server
 ```
+
+## CICD
+https://hexo.io/docs/github-pages
