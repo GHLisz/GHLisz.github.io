@@ -11,3 +11,7 @@ hexo server
 
 ## CICD
 https://hexo.io/docs/github-pages
+
+## 安装主题
+https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md
+
